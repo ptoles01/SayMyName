@@ -1,0 +1,6 @@
+
+/* Class = "UILabel"; text = "First name"; ObjectID = "JU2-na-FV4"; */
+"JU2-na-FV4.text" = "Nombre";
+
+/* Class = "UILabel"; text = "Last name"; ObjectID = "rX0-Rg-YH7"; */
+"rX0-Rg-YH7.text" = "Apellidos";
